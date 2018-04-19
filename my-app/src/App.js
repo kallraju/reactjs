@@ -40,6 +40,7 @@ class App extends Component {
               </tbody>
            </table>           
            <Xyz name="WoW"/>        
+           <Xyz name="WoW"/>        
         </div>
            
      );
